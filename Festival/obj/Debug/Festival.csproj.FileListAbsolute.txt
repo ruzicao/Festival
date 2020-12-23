@@ -1,0 +1,230 @@
+C:\Users\Ruzica\Desktop\decembar\Festival\Festival\bin\Festival.dll.config
+C:\Users\Ruzica\Desktop\decembar\Festival\Festival\bin\Festival.dll
+C:\Users\Ruzica\Desktop\decembar\Festival\Festival\bin\Festival.pdb
+C:\Users\Ruzica\Desktop\decembar\Festival\Festival\bin\roslyn\csc.exe
+C:\Users\Ruzica\Desktop\decembar\Festival\Festival\bin\roslyn\csc.exe.config
+C:\Users\Ruzica\Desktop\decembar\Festival\Festival\bin\roslyn\csc.rsp
+C:\Users\Ruzica\Desktop\decembar\Festival\Festival\bin\roslyn\csi.exe
+C:\Users\Ruzica\Desktop\decembar\Festival\Festival\bin\roslyn\csi.exe.config
+C:\Users\Ruzica\Desktop\decembar\Festival\Festival\bin\roslyn\csi.rsp
+C:\Users\Ruzica\Desktop\decembar\Festival\Festival\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Ruzica\Desktop\decembar\Festival\Festival\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Ruzica\Desktop\decembar\Festival\Festival\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Ruzica\Desktop\decembar\Festival\Festival\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Ruzica\Desktop\decembar\Festival\Festival\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Ruzica\Desktop\decembar\Festival\Festival\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Ruzica\Desktop\decembar\Festival\Festival\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Ruzica\Desktop\decembar\Festival\Festival\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Ruzica\Desktop\decembar\Festival\Festival\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Ruzica\Desktop\decembar\Festival\Festival\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\Ruzica\Desktop\decembar\Festival\Festival\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Ruzica\Desktop\decembar\Festival\Festival\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\Ruzica\Desktop\decembar\Festival\Festival\bin\roslyn\System.AppContext.dll
+C:\Users\Ruzica\Desktop\decembar\Festival\Festival\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Ruzica\Desktop\decembar\Festival\Festival\bin\roslyn\System.Console.dll
+C:\Users\Ruzica\Desktop\decembar\Festival\Festival\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Ruzica\Desktop\decembar\Festival\Festival\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\Ruzica\Desktop\decembar\Festival\Festival\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Ruzica\Desktop\decembar\Festival\Festival\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\Ruzica\Desktop\decembar\Festival\Festival\bin\roslyn\System.IO.Compression.dll
+C:\Users\Ruzica\Desktop\decembar\Festival\Festival\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\Ruzica\Desktop\decembar\Festival\Festival\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Ruzica\Desktop\decembar\Festival\Festival\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Ruzica\Desktop\decembar\Festival\Festival\bin\roslyn\System.Net.Http.dll
+C:\Users\Ruzica\Desktop\decembar\Festival\Festival\bin\roslyn\System.Net.Sockets.dll
+C:\Users\Ruzica\Desktop\decembar\Festival\Festival\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Ruzica\Desktop\decembar\Festival\Festival\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\Ruzica\Desktop\decembar\Festival\Festival\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\Ruzica\Desktop\decembar\Festival\Festival\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\Ruzica\Desktop\decembar\Festival\Festival\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\Ruzica\Desktop\decembar\Festival\Festival\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Ruzica\Desktop\decembar\Festival\Festival\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\Ruzica\Desktop\decembar\Festival\Festival\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\Ruzica\Desktop\decembar\Festival\Festival\bin\roslyn\System.ValueTuple.dll
+C:\Users\Ruzica\Desktop\decembar\Festival\Festival\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\Ruzica\Desktop\decembar\Festival\Festival\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\Ruzica\Desktop\decembar\Festival\Festival\bin\roslyn\System.Xml.XPath.dll
+C:\Users\Ruzica\Desktop\decembar\Festival\Festival\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\Ruzica\Desktop\decembar\Festival\Festival\bin\roslyn\vbc.exe
+C:\Users\Ruzica\Desktop\decembar\Festival\Festival\bin\roslyn\vbc.exe.config
+C:\Users\Ruzica\Desktop\decembar\Festival\Festival\bin\roslyn\vbc.rsp
+C:\Users\Ruzica\Desktop\decembar\Festival\Festival\bin\roslyn\VBCSCompiler.exe
+C:\Users\Ruzica\Desktop\decembar\Festival\Festival\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Ruzica\Desktop\decembar\Festival\Festival\bin\Antlr3.Runtime.dll
+C:\Users\Ruzica\Desktop\decembar\Festival\Festival\bin\EntityFramework.dll
+C:\Users\Ruzica\Desktop\decembar\Festival\Festival\bin\EntityFramework.SqlServer.dll
+C:\Users\Ruzica\Desktop\decembar\Festival\Festival\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\Ruzica\Desktop\decembar\Festival\Festival\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\Ruzica\Desktop\decembar\Festival\Festival\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\Ruzica\Desktop\decembar\Festival\Festival\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Ruzica\Desktop\decembar\Festival\Festival\bin\Microsoft.Owin.dll
+C:\Users\Ruzica\Desktop\decembar\Festival\Festival\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\Ruzica\Desktop\decembar\Festival\Festival\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\Ruzica\Desktop\decembar\Festival\Festival\bin\Microsoft.Owin.Security.dll
+C:\Users\Ruzica\Desktop\decembar\Festival\Festival\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\Ruzica\Desktop\decembar\Festival\Festival\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\Ruzica\Desktop\decembar\Festival\Festival\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\Ruzica\Desktop\decembar\Festival\Festival\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\Ruzica\Desktop\decembar\Festival\Festival\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\Ruzica\Desktop\decembar\Festival\Festival\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Ruzica\Desktop\decembar\Festival\Festival\bin\Newtonsoft.Json.dll
+C:\Users\Ruzica\Desktop\decembar\Festival\Festival\bin\Owin.dll
+C:\Users\Ruzica\Desktop\decembar\Festival\Festival\bin\System.Net.Http.Formatting.dll
+C:\Users\Ruzica\Desktop\decembar\Festival\Festival\bin\System.Web.Helpers.dll
+C:\Users\Ruzica\Desktop\decembar\Festival\Festival\bin\System.Web.Http.dll
+C:\Users\Ruzica\Desktop\decembar\Festival\Festival\bin\System.Web.Http.Owin.dll
+C:\Users\Ruzica\Desktop\decembar\Festival\Festival\bin\System.Web.Http.WebHost.dll
+C:\Users\Ruzica\Desktop\decembar\Festival\Festival\bin\System.Web.Mvc.dll
+C:\Users\Ruzica\Desktop\decembar\Festival\Festival\bin\System.Web.Optimization.dll
+C:\Users\Ruzica\Desktop\decembar\Festival\Festival\bin\System.Web.Razor.dll
+C:\Users\Ruzica\Desktop\decembar\Festival\Festival\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Ruzica\Desktop\decembar\Festival\Festival\bin\System.Web.WebPages.dll
+C:\Users\Ruzica\Desktop\decembar\Festival\Festival\bin\System.Web.WebPages.Razor.dll
+C:\Users\Ruzica\Desktop\decembar\Festival\Festival\bin\WebGrease.dll
+C:\Users\Ruzica\Desktop\decembar\Festival\Festival\bin\Newtonsoft.Json.xml
+C:\Users\Ruzica\Desktop\decembar\Festival\Festival\bin\System.Net.Http.Formatting.xml
+C:\Users\Ruzica\Desktop\decembar\Festival\Festival\bin\System.Web.Helpers.xml
+C:\Users\Ruzica\Desktop\decembar\Festival\Festival\bin\System.Web.Http.xml
+C:\Users\Ruzica\Desktop\decembar\Festival\Festival\bin\System.Web.Http.WebHost.xml
+C:\Users\Ruzica\Desktop\decembar\Festival\Festival\bin\System.Web.Mvc.xml
+C:\Users\Ruzica\Desktop\decembar\Festival\Festival\bin\System.Web.Optimization.xml
+C:\Users\Ruzica\Desktop\decembar\Festival\Festival\bin\System.Web.Razor.xml
+C:\Users\Ruzica\Desktop\decembar\Festival\Festival\bin\System.Web.WebPages.xml
+C:\Users\Ruzica\Desktop\decembar\Festival\Festival\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Ruzica\Desktop\decembar\Festival\Festival\bin\System.Web.WebPages.Razor.xml
+C:\Users\Ruzica\Desktop\decembar\Festival\Festival\bin\Antlr3.Runtime.pdb
+C:\Users\Ruzica\Desktop\decembar\Festival\Festival\bin\EntityFramework.xml
+C:\Users\Ruzica\Desktop\decembar\Festival\Festival\bin\EntityFramework.SqlServer.xml
+C:\Users\Ruzica\Desktop\decembar\Festival\Festival\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\Ruzica\Desktop\decembar\Festival\Festival\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\Ruzica\Desktop\decembar\Festival\Festival\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\Ruzica\Desktop\decembar\Festival\Festival\bin\Microsoft.Owin.xml
+C:\Users\Ruzica\Desktop\decembar\Festival\Festival\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\Ruzica\Desktop\decembar\Festival\Festival\bin\Microsoft.Owin.Security.xml
+C:\Users\Ruzica\Desktop\decembar\Festival\Festival\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\Ruzica\Desktop\decembar\Festival\Festival\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\Ruzica\Desktop\decembar\Festival\Festival\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\Ruzica\Desktop\decembar\Festival\Festival\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\Ruzica\Desktop\decembar\Festival\Festival\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\Ruzica\Desktop\decembar\Festival\Festival\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\Ruzica\Desktop\decembar\Festival\Festival\bin\System.Web.Http.Owin.xml
+C:\Users\Ruzica\Desktop\decembar\Festival\Festival\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Ruzica\Desktop\decembar\Festival\Festival\obj\Debug\Festival.csprojAssemblyReference.cache
+C:\Users\Ruzica\Desktop\decembar\Festival\Festival\obj\Debug\Festival.csproj.CoreCompileInputs.cache
+C:\Users\Ruzica\Desktop\decembar\Festival\Festival\obj\Debug\Festival.csproj.CopyComplete
+C:\Users\Ruzica\Desktop\decembar\Festival\Festival\obj\Debug\Festival.dll
+C:\Users\Ruzica\Desktop\decembar\Festival\Festival\obj\Debug\Festival.pdb
+C:\Users\Ruzica\Desktop\decembar\Festival\Festival\obj\Debug\Festival.Migrations.Initial.resources
+C:\Users\Ruzica\Desktop\decembar\Festival\Festival\obj\Debug\Festival.csproj.GenerateResource.cache
+C:\Users\Ruzica\Desktop\decembar\Festival\Festival\bin\AutoMapper.dll
+C:\Users\Ruzica\Desktop\decembar\Festival\Festival\bin\Microsoft.Practices.ServiceLocation.dll
+C:\Users\Ruzica\Desktop\decembar\Festival\Festival\bin\Microsoft.Practices.Unity.Configuration.dll
+C:\Users\Ruzica\Desktop\decembar\Festival\Festival\bin\Microsoft.Practices.Unity.dll
+C:\Users\Ruzica\Desktop\decembar\Festival\Festival\bin\Microsoft.Practices.Unity.RegistrationByConvention.dll
+C:\Users\Ruzica\Desktop\decembar\Festival\Festival\bin\System.Web.Http.Tracing.dll
+C:\Users\Ruzica\Desktop\decembar\Festival\Festival\bin\AutoMapper.xml
+C:\Users\Ruzica\Desktop\decembar\Festival\Festival\bin\Microsoft.Practices.ServiceLocation.pdb
+C:\Users\Ruzica\Desktop\decembar\Festival\Festival\bin\Microsoft.Practices.ServiceLocation.xml
+C:\Users\Ruzica\Desktop\decembar\Festival\Festival\bin\Microsoft.Practices.Unity.xml
+C:\Users\Ruzica\Desktop\decembar\Festival\Festival\bin\Microsoft.Practices.Unity.Configuration.xml
+C:\Users\Ruzica\Desktop\decembar\Festival\Festival\bin\Microsoft.Practices.Unity.RegistrationByConvention.xml
+C:\Users\Ruzica\Desktop\decembar\Festival\Festival\bin\System.Web.Http.Tracing.xml
+C:\Users\Ruzica\Desktop\decembar\Festival\Festival\bin\System.Web.Cors.dll
+C:\Users\Ruzica\Desktop\decembar\Festival\Festival\bin\System.Web.Http.Cors.dll
+C:\Users\Ruzica\Desktop\decembar\Festival\Festival\bin\System.Web.Http.Cors.xml
+C:\Users\Ruzica\Desktop\PRIPREMA ZA FINALNI TEST\decembar\Festival\Festival\bin\Festival.dll.config
+C:\Users\Ruzica\Desktop\PRIPREMA ZA FINALNI TEST\decembar\Festival\Festival\bin\Festival.dll
+C:\Users\Ruzica\Desktop\PRIPREMA ZA FINALNI TEST\decembar\Festival\Festival\bin\Festival.pdb
+C:\Users\Ruzica\Desktop\PRIPREMA ZA FINALNI TEST\decembar\Festival\Festival\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Ruzica\Desktop\PRIPREMA ZA FINALNI TEST\decembar\Festival\Festival\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Ruzica\Desktop\PRIPREMA ZA FINALNI TEST\decembar\Festival\Festival\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Ruzica\Desktop\PRIPREMA ZA FINALNI TEST\decembar\Festival\Festival\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Ruzica\Desktop\PRIPREMA ZA FINALNI TEST\decembar\Festival\Festival\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Ruzica\Desktop\PRIPREMA ZA FINALNI TEST\decembar\Festival\Festival\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Ruzica\Desktop\PRIPREMA ZA FINALNI TEST\decembar\Festival\Festival\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Ruzica\Desktop\PRIPREMA ZA FINALNI TEST\decembar\Festival\Festival\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Ruzica\Desktop\PRIPREMA ZA FINALNI TEST\decembar\Festival\Festival\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\Ruzica\Desktop\PRIPREMA ZA FINALNI TEST\decembar\Festival\Festival\bin\roslyn\System.ValueTuple.dll
+C:\Users\Ruzica\Desktop\PRIPREMA ZA FINALNI TEST\decembar\Festival\Festival\bin\roslyn\VBCSCompiler.exe
+C:\Users\Ruzica\Desktop\PRIPREMA ZA FINALNI TEST\decembar\Festival\Festival\bin\Antlr3.Runtime.dll
+C:\Users\Ruzica\Desktop\PRIPREMA ZA FINALNI TEST\decembar\Festival\Festival\bin\AutoMapper.dll
+C:\Users\Ruzica\Desktop\PRIPREMA ZA FINALNI TEST\decembar\Festival\Festival\bin\EntityFramework.dll
+C:\Users\Ruzica\Desktop\PRIPREMA ZA FINALNI TEST\decembar\Festival\Festival\bin\EntityFramework.SqlServer.dll
+C:\Users\Ruzica\Desktop\PRIPREMA ZA FINALNI TEST\decembar\Festival\Festival\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\Ruzica\Desktop\PRIPREMA ZA FINALNI TEST\decembar\Festival\Festival\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\Ruzica\Desktop\PRIPREMA ZA FINALNI TEST\decembar\Festival\Festival\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\Ruzica\Desktop\PRIPREMA ZA FINALNI TEST\decembar\Festival\Festival\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Ruzica\Desktop\PRIPREMA ZA FINALNI TEST\decembar\Festival\Festival\bin\Microsoft.Owin.dll
+C:\Users\Ruzica\Desktop\PRIPREMA ZA FINALNI TEST\decembar\Festival\Festival\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\Ruzica\Desktop\PRIPREMA ZA FINALNI TEST\decembar\Festival\Festival\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\Ruzica\Desktop\PRIPREMA ZA FINALNI TEST\decembar\Festival\Festival\bin\Microsoft.Owin.Security.dll
+C:\Users\Ruzica\Desktop\PRIPREMA ZA FINALNI TEST\decembar\Festival\Festival\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\Ruzica\Desktop\PRIPREMA ZA FINALNI TEST\decembar\Festival\Festival\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\Ruzica\Desktop\PRIPREMA ZA FINALNI TEST\decembar\Festival\Festival\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\Ruzica\Desktop\PRIPREMA ZA FINALNI TEST\decembar\Festival\Festival\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\Ruzica\Desktop\PRIPREMA ZA FINALNI TEST\decembar\Festival\Festival\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\Ruzica\Desktop\PRIPREMA ZA FINALNI TEST\decembar\Festival\Festival\bin\Microsoft.Practices.ServiceLocation.dll
+C:\Users\Ruzica\Desktop\PRIPREMA ZA FINALNI TEST\decembar\Festival\Festival\bin\Microsoft.Practices.Unity.Configuration.dll
+C:\Users\Ruzica\Desktop\PRIPREMA ZA FINALNI TEST\decembar\Festival\Festival\bin\Microsoft.Practices.Unity.dll
+C:\Users\Ruzica\Desktop\PRIPREMA ZA FINALNI TEST\decembar\Festival\Festival\bin\Microsoft.Practices.Unity.RegistrationByConvention.dll
+C:\Users\Ruzica\Desktop\PRIPREMA ZA FINALNI TEST\decembar\Festival\Festival\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Ruzica\Desktop\PRIPREMA ZA FINALNI TEST\decembar\Festival\Festival\bin\Newtonsoft.Json.dll
+C:\Users\Ruzica\Desktop\PRIPREMA ZA FINALNI TEST\decembar\Festival\Festival\bin\Owin.dll
+C:\Users\Ruzica\Desktop\PRIPREMA ZA FINALNI TEST\decembar\Festival\Festival\bin\System.Net.Http.Formatting.dll
+C:\Users\Ruzica\Desktop\PRIPREMA ZA FINALNI TEST\decembar\Festival\Festival\bin\System.Web.Cors.dll
+C:\Users\Ruzica\Desktop\PRIPREMA ZA FINALNI TEST\decembar\Festival\Festival\bin\System.Web.Helpers.dll
+C:\Users\Ruzica\Desktop\PRIPREMA ZA FINALNI TEST\decembar\Festival\Festival\bin\System.Web.Http.Cors.dll
+C:\Users\Ruzica\Desktop\PRIPREMA ZA FINALNI TEST\decembar\Festival\Festival\bin\System.Web.Http.dll
+C:\Users\Ruzica\Desktop\PRIPREMA ZA FINALNI TEST\decembar\Festival\Festival\bin\System.Web.Http.Owin.dll
+C:\Users\Ruzica\Desktop\PRIPREMA ZA FINALNI TEST\decembar\Festival\Festival\bin\System.Web.Http.Tracing.dll
+C:\Users\Ruzica\Desktop\PRIPREMA ZA FINALNI TEST\decembar\Festival\Festival\bin\System.Web.Http.WebHost.dll
+C:\Users\Ruzica\Desktop\PRIPREMA ZA FINALNI TEST\decembar\Festival\Festival\bin\System.Web.Mvc.dll
+C:\Users\Ruzica\Desktop\PRIPREMA ZA FINALNI TEST\decembar\Festival\Festival\bin\System.Web.Optimization.dll
+C:\Users\Ruzica\Desktop\PRIPREMA ZA FINALNI TEST\decembar\Festival\Festival\bin\System.Web.Razor.dll
+C:\Users\Ruzica\Desktop\PRIPREMA ZA FINALNI TEST\decembar\Festival\Festival\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Ruzica\Desktop\PRIPREMA ZA FINALNI TEST\decembar\Festival\Festival\bin\System.Web.WebPages.dll
+C:\Users\Ruzica\Desktop\PRIPREMA ZA FINALNI TEST\decembar\Festival\Festival\bin\System.Web.WebPages.Razor.dll
+C:\Users\Ruzica\Desktop\PRIPREMA ZA FINALNI TEST\decembar\Festival\Festival\bin\WebGrease.dll
+C:\Users\Ruzica\Desktop\PRIPREMA ZA FINALNI TEST\decembar\Festival\Festival\bin\AutoMapper.xml
+C:\Users\Ruzica\Desktop\PRIPREMA ZA FINALNI TEST\decembar\Festival\Festival\bin\Microsoft.Practices.ServiceLocation.pdb
+C:\Users\Ruzica\Desktop\PRIPREMA ZA FINALNI TEST\decembar\Festival\Festival\bin\Microsoft.Practices.ServiceLocation.xml
+C:\Users\Ruzica\Desktop\PRIPREMA ZA FINALNI TEST\decembar\Festival\Festival\bin\Microsoft.Practices.Unity.xml
+C:\Users\Ruzica\Desktop\PRIPREMA ZA FINALNI TEST\decembar\Festival\Festival\bin\Microsoft.Practices.Unity.Configuration.xml
+C:\Users\Ruzica\Desktop\PRIPREMA ZA FINALNI TEST\decembar\Festival\Festival\bin\Microsoft.Practices.Unity.RegistrationByConvention.xml
+C:\Users\Ruzica\Desktop\PRIPREMA ZA FINALNI TEST\decembar\Festival\Festival\bin\System.Web.Http.Cors.xml
+C:\Users\Ruzica\Desktop\PRIPREMA ZA FINALNI TEST\decembar\Festival\Festival\bin\System.Web.Http.Tracing.xml
+C:\Users\Ruzica\Desktop\PRIPREMA ZA FINALNI TEST\decembar\Festival\Festival\bin\Newtonsoft.Json.xml
+C:\Users\Ruzica\Desktop\PRIPREMA ZA FINALNI TEST\decembar\Festival\Festival\bin\System.Net.Http.Formatting.xml
+C:\Users\Ruzica\Desktop\PRIPREMA ZA FINALNI TEST\decembar\Festival\Festival\bin\System.Web.Helpers.xml
+C:\Users\Ruzica\Desktop\PRIPREMA ZA FINALNI TEST\decembar\Festival\Festival\bin\System.Web.Http.xml
+C:\Users\Ruzica\Desktop\PRIPREMA ZA FINALNI TEST\decembar\Festival\Festival\bin\System.Web.Http.WebHost.xml
+C:\Users\Ruzica\Desktop\PRIPREMA ZA FINALNI TEST\decembar\Festival\Festival\bin\System.Web.Mvc.xml
+C:\Users\Ruzica\Desktop\PRIPREMA ZA FINALNI TEST\decembar\Festival\Festival\bin\System.Web.Optimization.xml
+C:\Users\Ruzica\Desktop\PRIPREMA ZA FINALNI TEST\decembar\Festival\Festival\bin\System.Web.Razor.xml
+C:\Users\Ruzica\Desktop\PRIPREMA ZA FINALNI TEST\decembar\Festival\Festival\bin\System.Web.WebPages.xml
+C:\Users\Ruzica\Desktop\PRIPREMA ZA FINALNI TEST\decembar\Festival\Festival\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Ruzica\Desktop\PRIPREMA ZA FINALNI TEST\decembar\Festival\Festival\bin\System.Web.WebPages.Razor.xml
+C:\Users\Ruzica\Desktop\PRIPREMA ZA FINALNI TEST\decembar\Festival\Festival\bin\Antlr3.Runtime.pdb
+C:\Users\Ruzica\Desktop\PRIPREMA ZA FINALNI TEST\decembar\Festival\Festival\bin\EntityFramework.xml
+C:\Users\Ruzica\Desktop\PRIPREMA ZA FINALNI TEST\decembar\Festival\Festival\bin\EntityFramework.SqlServer.xml
+C:\Users\Ruzica\Desktop\PRIPREMA ZA FINALNI TEST\decembar\Festival\Festival\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\Ruzica\Desktop\PRIPREMA ZA FINALNI TEST\decembar\Festival\Festival\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\Ruzica\Desktop\PRIPREMA ZA FINALNI TEST\decembar\Festival\Festival\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\Ruzica\Desktop\PRIPREMA ZA FINALNI TEST\decembar\Festival\Festival\bin\Microsoft.Owin.xml
+C:\Users\Ruzica\Desktop\PRIPREMA ZA FINALNI TEST\decembar\Festival\Festival\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\Ruzica\Desktop\PRIPREMA ZA FINALNI TEST\decembar\Festival\Festival\bin\Microsoft.Owin.Security.xml
+C:\Users\Ruzica\Desktop\PRIPREMA ZA FINALNI TEST\decembar\Festival\Festival\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\Ruzica\Desktop\PRIPREMA ZA FINALNI TEST\decembar\Festival\Festival\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\Ruzica\Desktop\PRIPREMA ZA FINALNI TEST\decembar\Festival\Festival\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\Ruzica\Desktop\PRIPREMA ZA FINALNI TEST\decembar\Festival\Festival\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\Ruzica\Desktop\PRIPREMA ZA FINALNI TEST\decembar\Festival\Festival\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\Ruzica\Desktop\PRIPREMA ZA FINALNI TEST\decembar\Festival\Festival\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\Ruzica\Desktop\PRIPREMA ZA FINALNI TEST\decembar\Festival\Festival\bin\System.Web.Http.Owin.xml
+C:\Users\Ruzica\Desktop\PRIPREMA ZA FINALNI TEST\decembar\Festival\Festival\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Ruzica\Desktop\PRIPREMA ZA FINALNI TEST\decembar\Festival\Festival\obj\Debug\Festival.csprojAssemblyReference.cache
+C:\Users\Ruzica\Desktop\PRIPREMA ZA FINALNI TEST\decembar\Festival\Festival\obj\Debug\Festival.Migrations.Initial.resources
+C:\Users\Ruzica\Desktop\PRIPREMA ZA FINALNI TEST\decembar\Festival\Festival\obj\Debug\Festival.csproj.GenerateResource.cache
+C:\Users\Ruzica\Desktop\PRIPREMA ZA FINALNI TEST\decembar\Festival\Festival\obj\Debug\Festival.csproj.CoreCompileInputs.cache
+C:\Users\Ruzica\Desktop\PRIPREMA ZA FINALNI TEST\decembar\Festival\Festival\obj\Debug\Festival.csproj.CopyComplete
+C:\Users\Ruzica\Desktop\PRIPREMA ZA FINALNI TEST\decembar\Festival\Festival\obj\Debug\Festival.dll
+C:\Users\Ruzica\Desktop\PRIPREMA ZA FINALNI TEST\decembar\Festival\Festival\obj\Debug\Festival.pdb

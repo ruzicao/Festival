@@ -1,0 +1,115 @@
+﻿@section Scripts {
+    @Scripts.Render("~/Scripts/Skripta.js")
+    @Scripts.Render("~/Scripts/Validator.js")
+}
+
+<style>
+    body {
+        background-color: antiquewhite;
+    }
+
+    #registracija input {
+        border-color: aquamarine;
+    }
+
+    #prijava input {
+        border-color: aquamarine;
+    }
+</style>
+<div class="row">
+
+    <div>
+        <form method="post" action="post/" id="registration">
+            <h3>Registration</h3>
+            <div class="form-group">
+                <label>Email</label>
+                <input class="form-control" type="text" id="regEmail" />
+            </div>
+            <div class="form-group">
+                <label>Password</label>
+                <input class="form-control" type="password" id="regLoz" />
+            </div>
+            <div class="form-group">
+                <label>Submit Password</label>
+                <input class="form-control" type="password" id="regLoz2" />
+            </div>
+            <button type="submit" class="btn btn-default">Registration</button>
+        </form>
+    </div>
+
+    <div>
+        <form method="post" action="post/" id="login">
+            <h3>Log in</h3>
+            <div class="form-group">
+                <label>Email</label>
+                <input class="form-control" type="text" id="priEmail" />
+            </div>
+            <div class="form-group">
+                <label>Password</label>
+                <input class="form-control" type="password" id="priLoz" />
+            </div>
+            <div class="btn-group" role="group">
+                <button id="btnlogin" type="submit" class="btn btn-default">Log in</button>
+                <button id="btnreg" type="button" class="btn btn-default">Registration</button>
+            </div>
+        </form>
+    </div>
+</div>
+
+<br />
+<div class="row">
+    <div class="col-sm-4" id="logout">
+        <h3>Log out</h3>
+        <button class="btn btn-default" id="btnlogout">Log out</button>
+    </div>
+</div>
+
+<hr />
+<div id="container">
+    <p id="info"></p>
+    <br />
+
+    <div id="dataEvent">
+
+    </div>
+    <br />
+
+    <div id="filterYear" style="display:none">
+        <h1>Write in years:</h1>
+
+        <label>From:</label><br /> <input id="yearfrom"><br /><label>To:</label><br /> <input id="yearto">
+
+        <button class="btn btn-default" id="btnfilter">Filter</button>
+    </div>
+
+    <hr />
+    <br />
+    <div id="formEventDiv" style="display:none">
+        <form method="post" action="post/" id="eventForm">
+            <p><label>Name: <input id="eventName"></label></p>
+            <br />
+            <p id="eventNameError" class="hidden" style="color:indianred">Unesite ispravan naziv  :).</p>
+            <br />
+            <p><label>Price: <input type="number" min="0" id="eventPrice"></label></p>
+            <br />
+            <p id="eventPriceError" class="hidden" style="color:indianred">Unesite ispravnu cenu :).</p>
+            <br />
+            <p><label>Year: <input type="number" min="2000" max="2019" id="eventYear"></label></p>
+            <br />
+            <p id="eventYearError" class="hidden" style="color:indianred"> Unesi godinu odrzavanja festivala :).</p>
+            <br />
+            <p><label>Location:<select name="" id="city"></select></label></p>
+            <br />
+            <div class="btn-group" role="group">
+                <button id="btn" class="btn btn-default" type="submit">Submit</button>
+                <button class="btn btn-default" type="button" id="btn2">Reset</button>
+            </div>
+        </form>
+    </div>
+    <br />
+    <br />
+    <div id="stdiv" style="display:none;">
+        <button class="btn btn-default" type="button" id="btnstat">Statistics</button>
+        <div id="statdata"></div>
+    </div>
+</div>
