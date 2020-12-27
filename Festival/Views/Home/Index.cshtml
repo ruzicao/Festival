@@ -8,12 +8,18 @@
         background-color: antiquewhite;
     }
 
-    #registracija input {
-        border-color: aquamarine;
+    #eventForm input {
+        border-color: burlywood;
     }
 
-    #prijava input {
-        border-color: aquamarine;
+    #eventForm input {
+        border-color: burlywood;
+    }
+
+    #eventForm {
+        border: 2px solid burlywood;
+        padding:40px;
+        width:400px;
     }
 </style>
 <div class="row">
@@ -75,16 +81,17 @@
     <br />
 
     <div id="filterYear" style="display:none">
-        <h1>Write in years:</h1>
-
-        <label>From:</label><br /> <input id="yearfrom"><br /><label>To:</label><br /> <input id="yearto">
-
-        <button class="btn btn-default" id="btnfilter">Filter</button>
+        <h1 style="color:burlywood">Enter year range for festivals</h1>
+        <br/>
+        <label>From: </label>  <input id="yearfrom">  <label>To: </label>  <input id="yearto"> 
+        <button class="btn carousel" id="btnfilter">Filter</button>
     </div>
-
+    <br/>
     <hr />
     <br />
     <div id="formEventDiv" style="display:none">
+        <h1 style="color:burlywood">Fill in the form</h1>
+        <br />
         <form method="post" action="post/" id="eventForm">
             <p><label>Name: <input id="eventName"></label></p>
             <br />

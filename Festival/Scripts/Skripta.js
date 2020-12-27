@@ -59,7 +59,7 @@
 
         if (status == "success") {
             var div = $("<div></div>");
-            var h1 = $("<h1>Festivali</h1>");
+            var h1 = $("<h1>Festivals</h1>");
             div.append(h1);
             var table = $("<table class='table table-bordered'></table>");
 
@@ -110,7 +110,7 @@
         $("#registration").css("display", "none");
         $("#logout").css("display", "none");
         $("#info").empty();
-        $("#eventForm").css("display", "none");
+        $("#formEventDiv").css("display", "none");
         $("#btnreg").css("display", "block");
         $("#filterYear").css("display", "none");
         $("#stdiv").css("display", "none");
