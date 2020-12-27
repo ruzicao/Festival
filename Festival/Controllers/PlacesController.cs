@@ -17,7 +17,7 @@ namespace Festival.Controllers
         {
             _repository = repository;
         }
-
+     
         public IQueryable<Place> Get()
         {
             return _repository.GetAll();
@@ -33,14 +33,13 @@ namespace Festival.Controllers
             return Ok(place);
         }
 
-
-        [Route("api/places")]
-        public IQueryable<Place> GetByZipCode(int kod)
+        [AllowAnonymous]
+        [Route("api/zipcode")]
+        [HttpGet]
+        public IQueryable<Place> ByZipCode(int zipcode)
         {
-            IQueryable<Place> result = _repository.GetByCode(kod);
+            IQueryable<Place> result = _repository.GetByCode(zipcode);
             return result;
         }
-
-
     }
 }

@@ -21,7 +21,6 @@ namespace Festival.Controllers
             _repository = repository;
         }
 
-
         [AllowAnonymous]
         public IQueryable<EventDTO> Get()
         {

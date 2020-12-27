@@ -38,9 +38,9 @@ namespace Festival.Repository
             }
 
    
-        public IQueryable<Place> GetByCode(int kod)
+        public IQueryable<Place> GetByCode(int zipcode)
         {
-            return db.Places.Where(p=>p.ZipCode<kod).OrderBy(z =>z.ZipCode);
+            return db.Places.Where(p=>p.ZipCode== zipcode).OrderBy(z =>z.ZipCode);
         }
     }
 }
