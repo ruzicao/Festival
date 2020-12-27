@@ -28,7 +28,7 @@ namespace Festival.Migrations
             context.SaveChanges();
 
             context.Events.AddOrUpdate(x => x.Id,
-                new Event() { Id = 1, Name = "Hello Summer", Year = 2017, Price = 2000.00M, PlaceId = 1 },
+                new Event() { Id = 1, Name = "Summer", Year = 2017, Price = 2000.00M, PlaceId = 1 },
                 new Event() { Id = 2, Name = "Autumn18", Year = 2017, Price = 2500.00M, PlaceId = 2 },
                 new Event() { Id = 3, Name = "WinterFest", Year = 2016, Price = 3000.00M, PlaceId = 3 }
             );

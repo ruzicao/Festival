@@ -333,10 +333,10 @@
     $("#btnstat").click(function () {
         
         var requestUrl = 'https://' + host + '/api/statistics';
-        $.getJSON(requestUrl, setStatistika);
+        $.getJSON(requestUrl, setStatistics);
     });
 
-    function setStatistika(data, status) {
+    function setStatistics(data, status) {
 
         var $container = $("#statdata");
         $container.empty();
@@ -348,7 +348,7 @@
             div.append(h1);
 
             var table = $("<table class='table table-bordered'></table>");
-            var header = $("<tr style=\"background-color: aquamarine;\"><td>Id</td><td>Place</td><td>Sum</td></tr>");
+            var header = $("<tr style=\"background-color:burlywood;\"><td>Id</td><td>Place</td><td>Sum</td></tr>");
             table.append(header);
             for (i = 0; i < data.length; i++) {
 

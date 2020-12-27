@@ -34,7 +34,7 @@ namespace Festival.Controllers
         }
 
 
-        //[Route("api/places")]
+        [Route("api/places")]
         public IQueryable<Place> GetByZipCode(int kod)
         {
             IQueryable<Place> result = _repository.GetByCode(kod);

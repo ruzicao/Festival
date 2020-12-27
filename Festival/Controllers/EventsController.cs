@@ -20,6 +20,8 @@ namespace Festival.Controllers
         {
             _repository = repository;
         }
+
+
         [AllowAnonymous]
         public IQueryable<EventDTO> Get()
         {
@@ -27,7 +29,7 @@ namespace Festival.Controllers
             return events.ProjectTo<EventDTO>();
         }
 
-     
+
         public IHttpActionResult Get(int id)
         {
             var ev = _repository.GetById(id);
@@ -38,22 +40,26 @@ namespace Festival.Controllers
             return Ok(ev);
         }
 
-         [Route("api/eventyear")]
+        [AllowAnonymous]
+        [Route("api/eventyear")]
         public IQueryable<Event> GetByYear(int start, int end)
         {
             return _repository.GetByYear(start, end);
         }
 
-        public IHttpActionResult Post(Event ev)
+
+        public IHttpActionResult Post(Event eventobj)
         {
             if (!ModelState.IsValid)
             {
                 return BadRequest(ModelState);
             }
 
-            _repository.Add(ev);
-            return CreatedAtRoute("DefaultApi", new { id = ev.Id }, ev);
+            _repository.Add(eventobj);
+
+            return CreatedAtRoute("DefaultApi", new { id = eventobj.Id }, eventobj);
         }
+
 
         public IHttpActionResult Put(int id, Event ev)
         {
@@ -79,18 +85,21 @@ namespace Festival.Controllers
             return Ok(ev);
         }
 
+
         public IHttpActionResult Delete(int id)
         {
-            var ev = _repository.GetById(id);
-            if (ev == null)
+            var eventobj = _repository.GetById(id);
+            if (eventobj == null)
             {
                 return NotFound();
             }
 
-            _repository.Delete(ev);
+            _repository.Delete(eventobj);
+
             return Ok();
         }
-        
+
+        [AllowAnonymous]
         [Route("api/statistics")]
         public IQueryable<EventStatisticsDTO> GetStatistics()
         {
