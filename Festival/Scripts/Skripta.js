@@ -146,8 +146,8 @@
             data: sendData
 
         }).done(function (data) {
-            $("#info").append("Uspešna registracija. Možete se prijaviti na sistem.");
-            alert("Uspešna registracija. Možete se prijaviti na sistem.");
+            $("#info").append("Successful registration. You can log in.");
+            alert("Successful registration. You can log in.");
             $("#login").css("display", "block");
             $("#registration").css("display", "none");
 
@@ -175,7 +175,7 @@
 
         }).done(function (data) {
        
-            $("#info").empty().append("Prijavljen korisnik: " + data.userName);
+            $("#info").empty().append("Logged in user: " + data.userName);
             token = data.access_token;
             $("#login").css("display", "none");
             $("#registration").css("display", "none");
@@ -327,8 +327,6 @@
         $("#regLoz").val('');
         $("#regLoz2").val('');
     };
-
-
 
     $("#btnstat").click(function () {
         

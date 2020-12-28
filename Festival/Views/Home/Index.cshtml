@@ -95,15 +95,15 @@
         <form method="post" action="post/" id="eventForm">
             <p><label>Name: <input id="eventName"></label></p>
             <br />
-            <p id="eventNameError" class="hidden" style="color:indianred">Unesite ispravan naziv  :).</p>
+            <p id="eventNameError" class="hidden" style="color:indianred">Event name must have at least 6 characters.</p>
             <br />
-            <p><label>Price: <input type="number" min="0" id="eventPrice"></label></p>
+            <p><label>Price: <input @*type="number"*@ id="eventPrice"></label></p>
             <br />
-            <p id="eventPriceError" class="hidden" style="color:indianred">Unesite ispravnu cenu :).</p>
+            <p id="eventPriceError" class="hidden" style="color:indianred">Event price must be a number.</p>
             <br />
-            <p><label>Year: <input type="number" min="2000" max="2019" id="eventYear"></label></p>
+            <p><label>Year: <input @*type="number"*@ id="eventYear"></label></p>
             <br />
-            <p id="eventYearError" class="hidden" style="color:indianred"> Unesi godinu odrzavanja festivala :).</p>
+            <p id="eventYearError" class="hidden" style="color:indianred">Event year must be between 2021. and 2024.</p>
             <br />
             <p><label>Location:<select name="" id="city"></select></label></p>
             <br />
